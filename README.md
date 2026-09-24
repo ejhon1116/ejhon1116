@@ -1,3 +1,3 @@
 cs @ umich '27
 
-software lead, previously navigation lead @ [umrover](https://github.com/umrover)
+software lead, previously navigation lead for [michigan mars rover](https://github.com/umrover)
